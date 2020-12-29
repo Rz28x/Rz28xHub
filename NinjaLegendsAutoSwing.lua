@@ -1,6 +1,6 @@
 getgenv().farmer = true;
 
-while true do
+while wait() do
    if getgenv().farmer == true then
 
 local args = {
